@@ -7,7 +7,23 @@ Este repositorio contiene un proyecto para evaluar y practicar los conceptos de 
 - **Nombre del estudiante 2**: Juan Carlos Vasquez Hernandez - 00094918
 - Sección: 01
 ---
+##Instrucciones
 
+1.Abrí una terminal y navegá a la carpeta raíz del proyecto:
+  cd ruta/del/proyecto
+2. Levantá los servicios (aplicación + base de datos) con el siguiente comando:
+  docker-compose up --build
+3.Una vez los contenedores estén corriendo, podés acceder a la API desde:
+  http://localhost:8080/api/...
+
+##Usuario 
+{
+  "email": "usuario@correo.com",
+  "password": "1234"
+}
+
+
+--
 ## Sistema de Soporte Técnico
 
 ### Descripción
