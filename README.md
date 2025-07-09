@@ -4,7 +4,7 @@ Este repositorio contiene un proyecto para evaluar y practicar los conceptos de 
 
 ### Estudiantes
 - **Nombre del estudiante 1**: [Tu nombre aquí] - [Carnet aquí]
-- **Nombre del estudiante 2**: [Tu nombre aquí] - [Carnet aquí]
+- **Nombre del estudiante 2**: Juan Carlos Vasquez Hernandez - 00094918
 - Sección: [Tu sección aquí]
 ---
 
